@@ -14,7 +14,7 @@
 <p>Sometimes you need to explain to kids how to do certain stuff.</p>
 <ol>
 <li>Download the file and save it on your desktop.</li>
-<li>If you’re on Windows, open cmd and type <strong>python3 <a href="http://toolkit.py">toolkit.py</a></strong></li>
+<li>If you’re on Windows, open cmd and type <pre><code>python3 toolkit.py</code></pre></li>
 <li>If you’re on Mac or Linux, do the same as <em>step 2</em></li>
 </ol>
 <h1 id="what-does-it-do">What does it do?</h1>
