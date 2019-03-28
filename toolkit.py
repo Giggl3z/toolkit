@@ -9,8 +9,7 @@ def clear():
 	print(cls)
 
 def startip():
-	print("LOL")
-	print("this is useless lmfao")
+	print("Work in progress...")
 	time.sleep(1)
 	clear()
 	menu2()
@@ -45,7 +44,7 @@ def qr():
 	stuff = input("Type your hidden message: ")
 	print("")
 
-	if stuff == "exit":
+	if stuff == "Exit":
 		clear()
 		menu2()
 
