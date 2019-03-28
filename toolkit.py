@@ -9,7 +9,8 @@ def clear():
 	print(cls)
 
 def startip():
-	print("Coming Soon...")
+	print("LOL")
+	print("this is useless lmfao")
 	time.sleep(1)
 	clear()
 	menu2()
